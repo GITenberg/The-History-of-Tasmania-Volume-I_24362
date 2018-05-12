@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25212
     wikipedia: http://en.wikipedia.org/wiki/Reverend_John_West
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24362#The-History-of-Tasmania-Volume-I
 gutenberg_issued: '2008-01-18'
 gutenberg_type: Text
 identifiers:
