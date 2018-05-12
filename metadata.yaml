@@ -1,0 +1,27 @@
+_repo: The-History-of-Tasmania-Volume-I_24362
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: West, John
+    birthdate: 1809
+    deathdate: 1873
+    gutenberg_agent_id: '25212'
+    url: http://www.gutenberg.org/2009/agents/25212
+    wikipedia: http://en.wikipedia.org/wiki/Reverend_John_West
+description: ''
+gutenberg_issued: '2008-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tasmania -- History'
+- !lcc 'DU'
+title: The History of Tasmania, Volume I
+url: http://www.gutenberg.org/ebooks/24362
